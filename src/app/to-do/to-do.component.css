@@ -1,0 +1,17 @@
+.container {
+  padding: 75px 90px 120px;
+}
+
+.search-add-row {
+  padding-bottom: 1%;
+  padding-left: 68%;
+}
+
+.example-full-width {
+  padding-top: 12px;
+  width: 300px;
+}
+
+.button-row {
+  padding-left: 10px;
+}
